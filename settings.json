@@ -1,0 +1,46 @@
+{
+  "bot-account": {
+    "username": "PABAJI",
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "in2.lushnodes.xyz",
+    "port": 26045,
+    "version": "1.18.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": "12345678"
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        ""
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": false,
+    "auto-reconnect-delay": 5000
+  }
+}
